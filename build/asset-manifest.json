@@ -1,15 +1,13 @@
 {
   "files": {
     "main.css": "/komposztfront/static/css/main.6b284ab8.chunk.css",
-    "main.js": "/komposztfront/static/js/main.b834dd42.chunk.js",
-    "main.js.map": "/komposztfront/static/js/main.b834dd42.chunk.js.map",
-    "runtime-main.js": "/komposztfront/static/js/runtime-main.5562cb8c.js",
-    "runtime-main.js.map": "/komposztfront/static/js/runtime-main.5562cb8c.js.map",
+    "main.js": "/komposztfront/static/js/main.4f327995.chunk.js",
+    "main.js.map": "/komposztfront/static/js/main.4f327995.chunk.js.map",
+    "runtime-main.js": "/komposztfront/static/js/runtime-main.8d36ec26.js",
+    "runtime-main.js.map": "/komposztfront/static/js/runtime-main.8d36ec26.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/komposztfront/static/css/2.4c97ca4f.chunk.css",
     "static/js/2.e2fe91c2.chunk.js": "/komposztfront/static/js/2.e2fe91c2.chunk.js",
     "static/js/2.e2fe91c2.chunk.js.map": "/komposztfront/static/js/2.e2fe91c2.chunk.js.map",
-    "static/js/3.c1f52450.chunk.js": "/komposztfront/static/js/3.c1f52450.chunk.js",
-    "static/js/3.c1f52450.chunk.js.map": "/komposztfront/static/js/3.c1f52450.chunk.js.map",
     "index.html": "/komposztfront/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/komposztfront/static/css/2.4c97ca4f.chunk.css.map",
     "static/css/main.6b284ab8.chunk.css.map": "/komposztfront/static/css/main.6b284ab8.chunk.css.map",
@@ -22,10 +20,10 @@
     "static/media/zoldEK.2b294994.png": "/komposztfront/static/media/zoldEK.2b294994.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.5562cb8c.js",
+    "static/js/runtime-main.8d36ec26.js",
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.e2fe91c2.chunk.js",
     "static/css/main.6b284ab8.chunk.css",
-    "static/js/main.b834dd42.chunk.js"
+    "static/js/main.4f327995.chunk.js"
   ]
 }
