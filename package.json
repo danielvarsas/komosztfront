@@ -1,6 +1,6 @@
 {
   "name": "komposzthoszt",
-  "homepage": "http://danielvarsas.github.io/my-app",
+  "homepage": "http://danielvarsas.github.io/komposztfront",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
